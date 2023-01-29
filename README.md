@@ -23,7 +23,7 @@ $ cd ./tg-style-transfer-bot
 $ pip install -r requirements.txt
 ```
 
-3. Записать токен от бота в файл `config.py` (директория `/bot`, как его получить можно посмотреть [здесь](https://dash11.comm100.io/kb/100/f9627b0c-6ff8-45c5-bdf5-b627f234d9bf/a/c8c7d736-f458-42ff-a863-f41b24fa5d02/where-do-i-find-telegram-bot-token)):
+3. Записать токен от бота в файл `config.py` (директория `./bot`, как его получить можно посмотреть [здесь](https://dash11.comm100.io/kb/100/f9627b0c-6ff8-45c5-bdf5-b627f234d9bf/a/c8c7d736-f458-42ff-a863-f41b24fa5d02/where-do-i-find-telegram-bot-token)):
 ```
 # так должно выглядеть содержимое файла
 
