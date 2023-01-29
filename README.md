@@ -4,7 +4,7 @@
 
 ## Описание проекта
 
-Данный бот представляет собой telegram бота для переноса стиля изображений с помощью двух моделей: ***Neural style transfer*** и ***CycleGAN***, описанных в статьях: [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) и [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593).
+Данный бот представляет собой telegram бота для переноса стиля изображений с помощью двух моделей: ***Neural style transfer*** и ***CycleGAN***, описанных в статьях [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) и [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) соответственно.
 
  В качестве модели *CycleGAN*\`а была взята и адаптирована его [официальная реализация](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) на [PyTorch](https://pytorch.org/).
 
